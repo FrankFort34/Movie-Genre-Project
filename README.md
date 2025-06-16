@@ -8,8 +8,7 @@
 
 # Visualization
 
-# 
-Conclusion
+# Conclusion
 
 ## Limitations
 
