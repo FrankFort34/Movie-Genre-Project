@@ -17,6 +17,7 @@ I began my analysis by ascertaining which genres and combinations of genres gene
 Action and adventure films have performed well at the box office. The high grossing performance of these films indicates a large audience of viewers who enjoy these genres. The company can do well in this industry by working with the right individuals to direct and star in our films. 
 
 ## Limitations
+This initial analysis did not include average production and hiring costs per genre or movie. Potential budget constraints of our new movie studio may affect which route management decides to pursue, whether it be in the action/adventure genre or otherwise. 
 
 ## Recommendations
 I recommend the company review the list of potential directors and actors, and then develop an initial budget for the studio. Once we determine how much we are willing to spend on production and on procuring talent, we can examine the costs of hiring directors and actors suggested from the analysis and generate a more accurate candidate list. 
