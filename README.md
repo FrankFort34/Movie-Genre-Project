@@ -26,4 +26,4 @@ I recommend the company review the list of potential directors and actors, and t
 Following this initial analysis, we can search for potential writers and producers using these same data sources. 
 
 ## Repository Structure
-Please see the full analysis in the Jupyter Notebook, linked below, or review this presentation: 
+Please see the full analysis in the Jupyter Notebook, linked below, or review this presentation: [Movie Genres Analysis](https://github.com/FrankFort34/Movie-Genre-Project/blob/main/Presentation.pdf)
